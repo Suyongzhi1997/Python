@@ -20,3 +20,8 @@ xiaoming = Person("小明", 75.0)
 xiaoming.run()
 xiaoming.eat()
 print(xiaoming)
+
+xiaomei = Person("小妹",45.0)
+xiaomei.eat()
+xiaomei.run()
+print(xiaomei)
